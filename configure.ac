@@ -1,6 +1,6 @@
 AC_PREREQ(2.63)
 dnl be carefull, the version needs to be in sync with your gnome shell version
-AC_INIT([gnome-shell-extension-mediaplayer],[0.2],[https://github.com/ojo/gnome-shell-extension-netmonitor])
+AC_INIT([gnome-shell-extension-netmonitor],[0.2],[https://github.com/ojo/gnome-shell-extension-netmonitor])
 
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_AUX_DIR([config])
