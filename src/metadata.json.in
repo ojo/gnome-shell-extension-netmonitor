@@ -1,0 +1,11 @@
+{
+    "uuid": "@UUID@",
+    "name": "NetMonitor",
+    "description": "Shows current bandwidth on network interfaces.",
+    "author": "Aleksander Zdyb"
+    "shell-version": [ "3.2" ],
+    "locale": "@LOCALEDIR@",
+    "path": "@EXTENSIONDIR@",
+    "url": "@URL@"
+}
+
